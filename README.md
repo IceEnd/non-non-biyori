@@ -1,4 +1,3 @@
-![mahua](mahua-logo.jpg)
 ##Non Non Biyor
 
 Non Non Biyor 是一个个人主页模板

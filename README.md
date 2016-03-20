@@ -2,7 +2,7 @@
 
 Non Non Biyor 是一个个人主页模板
 
-##MaHua特点
+##Non Non Biyor特点
 * 响应式（适配PC和移动端）
 * 结构清晰，层次分明
 
